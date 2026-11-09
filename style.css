@@ -1,0 +1,60 @@
+/* Тіло документу */
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+.container{
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+  /* Шапка сайту */
+  header {
+    background-color: #3E4E50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+
+  /* Список у навігації */
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+
+  /* Посилання */
+  nav a {
+    text-decoration: none;
+    color: white;
+  }
+
+  /* Секції */
+  section {
+    margin: 20px;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 5px;
+  }
+
+  /* Зображення */
+  img {
+    max-width: 400px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+
+  /* Підвал */
+  footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  } 
